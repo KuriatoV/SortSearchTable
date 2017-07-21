@@ -1,0 +1,16 @@
+td{
+  border: 1px solid black;
+}
+.wrapper{
+  background: white;
+}
+.header{
+  background: #373B41;
+  cursor: pointer;
+  color: white;
+}
+.header >p{
+  margin: 3px;
+}
+.active{background: red;margin:0px 3px;padding:0px 3px;border:1px solid black;cursor:pointer;}
+.pag_item{margin:0px 3px;padding:0px 3px;border:1px solid black;cursor:pointer;}
